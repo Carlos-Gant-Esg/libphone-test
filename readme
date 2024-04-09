@@ -1,2 +1,9 @@
 Una simple prueba para validar un numero de telefono internacional
 con js
+
+# Uso
+
+    npm i
+    node index.js
+
+Profit!
